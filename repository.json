@@ -1,0 +1,212 @@
+[
+  {
+    "id": "apk-signer",
+    "name": "Apk Signer",
+    "author": "YasserNull",
+    "description": "Sign and verify APK files using apksigner.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/apk-signer",
+    "permission": "default"
+  },
+  {
+    "id": "arabic-text-converter",
+    "name": "Arabic Text Converter",
+    "author": "YasserNull",
+    "description": "Convert Arabic text for proper display in video editors, Photoshop, and games.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/arabic-text-converter",
+    "permission": "default"
+  },
+  {
+    "id": "audio-converter",
+    "name": "Audio Converter",
+    "author": "YasserNull",
+    "description": "A tool for converting audio formats, supporting multiple formats via FFmpeg.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/audio-converter",
+    "permission": "default"
+  },
+  {
+    "id": "cpu-tuner",
+    "name": "CPU Tuner",
+    "author": "YasserNull",
+    "description": "CPU frequency & governor tuner.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/cpu-tuner",
+    "permission": "root"
+  },
+  {
+    "id": "dino-game",
+    "name": "Dino Game",
+    "author": "YasserNull",
+    "description": "The classic Chrome Dino Game that appears when offline",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/dino-game",
+    "permission": "default"
+  },
+  {
+    "id": "documents-converter",
+    "name": "Documents Converter",
+    "author": "YasserNull",
+    "description": "Convert document formats via Pandoc.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/documents-converter",
+    "permission": "default"
+  },
+  {
+    "id": "image-converter",
+    "name": "Image Converter",
+    "author": "YasserNull",
+    "description": "A tool for converting image formats, supporting 176 formats via ImageMagick.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/image-converter",
+    "permission": "default"
+  },
+  {
+    "id": "image-resizer",
+    "name": "Image Resizer",
+    "author": "YasserNull",
+    "description": "A tool for Resizing images via ImageMagick.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/image-resizer",
+    "permission": "default"
+  },
+  {
+    "id": "img-flasher",
+    "name": "Img Flasher",
+    "author": "YasserNull",
+    "description": "Extracting/Flashing Android system partition images.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/null-box-repo/img-flasher",
+    "permission": "root"
+  },
+  {
+    "id": "islamic-prayer-times",
+    "name": "Islamic Prayer Times",
+    "author": "YasserNull",
+    "description": "A simple tool to display Islamic prayer times.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/islamic-prayer-times",
+    "permission": "default"
+  },
+  {
+    "id": "keystore-generator",
+    "name": "KeyStore Generator",
+    "author": "YasserNull",
+    "description": "Generate Java KeyStore (.jks) files with custom settings.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/keystore-generator",
+    "permission": "default"
+  },
+  {
+    "id": "payload-dumper",
+    "name": "Payload Dumper",
+    "author": "YasserNull",
+    "description": "Dump Android OTA payload from URLs and local files.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/payload-dumper",
+    "permission": "default"
+  },
+  {
+    "id": "social-media-downloader",
+    "name": "Social Media Downloader",
+    "author": "YasserNull",
+    "description": "Download videos from social media platforms locally via yt-dlp in various qualities and formats.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/social-media-downloader",
+    "permission": "default"
+  },
+  {
+    "id": "speed-test",
+    "name": "Speed Test",
+    "author": "YasserNull",
+    "description": "A simple internet speed test tool.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/speed-test",
+    "permission": "default"
+  },
+  {
+    "id": "user-agent-generator",
+    "name": "User Agent Generator",
+    "author": "YasserNull",
+    "description": "Easily generate random user agents.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/user-agent-generator",
+    "permission": "default"
+  },
+  {
+    "id": "utransmission",
+    "name": "UTransmission",
+    "author": "YasserNull",
+    "description": "A Fast, Easy and Free Bittorrent Client.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/utransmission",
+    "permission": "default"
+  },
+  {
+    "id": "uuid-generator",
+    "name": "UUID Generator",
+    "author": "YasserNull",
+    "description": "A simple tool to generate UUIDs.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/uuid-generator",
+    "permission": "default"
+  },
+  {
+    "id": "uventoy",
+    "name": "UVentoy",
+    "author": "YasserNull",
+    "description": "Unofficial Ventoy: Install to SD card / USB device now!",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/null-box-repo/uventoy",
+    "permission": "root"
+  },
+  {
+    "id": "video-converter",
+    "name": "Video Converter",
+    "author": "YasserNull",
+    "description": "A tool for converting video and audio formats, supporting multiple formats via FFmpeg.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/video-converter",
+    "permission": "default"
+  },
+  {
+    "id": "video-to-tudio-converter",
+    "name": "Video to audio converter",
+    "author": "YasserNull",
+    "description": "Extract audio from video via ffmpeg.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/video-to-audio-converter",
+    "permission": "default"
+  },
+  {
+    "id": "wifi-passwords-viewer",
+    "name": "wifi-passwords-viewer",
+    "author": "YasserNull",
+    "description": "See your saved wifi passwords.",
+    "version": "v1.0.0",
+    "versionCode": 1,
+    "repository": "https://github.com/modules-box-repo/wifi-passwords-viewer",
+    "permission": "root"
+  }
+]
