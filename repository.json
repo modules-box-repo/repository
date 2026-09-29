@@ -2,6 +2,7 @@
   {
     "id": "apk-signer",
     "name": "Apk Signer",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Sign and verify APK files using apksigner.",
     "version": "v1.0.0",
@@ -12,6 +13,7 @@
   {
     "id": "arabic-text-converter",
     "name": "Arabic Text Converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Convert Arabic text for proper display in video editors, Photoshop, and games.",
     "version": "v1.0.0",
@@ -22,6 +24,7 @@
   {
     "id": "audio-converter",
     "name": "Audio Converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A tool for converting audio formats, supporting multiple formats via FFmpeg.",
     "version": "v1.0.0",
@@ -32,6 +35,7 @@
   {
     "id": "cpu-tuner",
     "name": "CPU Tuner",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "CPU frequency & governor tuner.",
     "version": "v1.0.0",
@@ -42,6 +46,7 @@
   {
     "id": "dino-game",
     "name": "Dino Game",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "The classic Chrome Dino Game that appears when offline",
     "version": "v1.0.0",
@@ -52,6 +57,7 @@
   {
     "id": "documents-converter",
     "name": "Documents Converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Convert document formats via Pandoc.",
     "version": "v1.0.0",
@@ -62,6 +68,7 @@
   {
     "id": "image-converter",
     "name": "Image Converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A tool for converting image formats, supporting 176 formats via ImageMagick.",
     "version": "v1.0.0",
@@ -72,6 +79,7 @@
   {
     "id": "image-resizer",
     "name": "Image Resizer",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A tool for Resizing images via ImageMagick.",
     "version": "v1.0.0",
@@ -82,6 +90,7 @@
   {
     "id": "img-flasher",
     "name": "Img Flasher",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Extracting/Flashing Android system partition images.",
     "version": "v1.0.0",
@@ -92,6 +101,7 @@
   {
     "id": "islamic-prayer-times",
     "name": "Islamic Prayer Times",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A simple tool to display Islamic prayer times.",
     "version": "v1.0.0",
@@ -102,6 +112,7 @@
   {
     "id": "keystore-generator",
     "name": "KeyStore Generator",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Generate Java KeyStore (.jks) files with custom settings.",
     "version": "v1.0.0",
@@ -112,6 +123,7 @@
   {
     "id": "payload-dumper",
     "name": "Payload Dumper",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Dump Android OTA payload from URLs and local files.",
     "version": "v1.0.0",
@@ -122,6 +134,7 @@
   {
     "id": "social-media-downloader",
     "name": "Social Media Downloader",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Download videos from social media platforms locally via yt-dlp in various qualities and formats.",
     "version": "v1.0.0",
@@ -132,6 +145,7 @@
   {
     "id": "speed-test",
     "name": "Speed Test",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A simple internet speed test tool.",
     "version": "v1.0.0",
@@ -142,6 +156,7 @@
   {
     "id": "user-agent-generator",
     "name": "User Agent Generator",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Easily generate random user agents.",
     "version": "v1.0.0",
@@ -152,6 +167,7 @@
   {
     "id": "utransmission",
     "name": "UTransmission",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A Fast, Easy and Free Bittorrent Client.",
     "version": "v1.0.0",
@@ -162,6 +178,7 @@
   {
     "id": "uuid-generator",
     "name": "UUID Generator",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A simple tool to generate UUIDs.",
     "version": "v1.0.0",
@@ -172,6 +189,7 @@
   {
     "id": "uventoy",
     "name": "UVentoy",
+    "icon": "icon.png",
     "author": "YasserNull",
     "description": "Unofficial Ventoy: Install to SD card / USB device now!",
     "version": "v1.0.0",
@@ -182,6 +200,7 @@
   {
     "id": "video-converter",
     "name": "Video Converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "A tool for converting video and audio formats, supporting multiple formats via FFmpeg.",
     "version": "v1.0.0",
@@ -192,6 +211,7 @@
   {
     "id": "video-to-tudio-converter",
     "name": "Video to audio converter",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "Extract audio from video via ffmpeg.",
     "version": "v1.0.0",
@@ -202,6 +222,7 @@
   {
     "id": "wifi-passwords-viewer",
     "name": "wifi-passwords-viewer",
+    "icon": "icon.jpg",
     "author": "YasserNull",
     "description": "See your saved wifi passwords.",
     "version": "v1.0.0",
